@@ -11,4 +11,5 @@ var prefix = "m";
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`Best Life`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd"))
+}
 });
